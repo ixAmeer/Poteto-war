@@ -31,7 +31,7 @@ body {
 .two {
     position: absolute;
     display: flex;
-    background-color: orange;
+    background-color: lightskyblue;
     padding: 0.4vh 15vh;
     top: 110%;
     left: 40vh;
